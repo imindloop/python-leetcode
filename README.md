@@ -1,2 +1,2 @@
 # python-leetcode
-Preparing for interviewing
+Preparing for interviewing with Meta and Amazon
